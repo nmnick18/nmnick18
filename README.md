@@ -1,22 +1,25 @@
-### Hi there, I am Nikhil Malani 👋
-#### Welcome to my GITHUB!
+## Hi there, I am Nikhil Malani 👋
+### Welcome to my GITHUB!
 
 <p><em>Software Enginner at OMNY Health</em></p>
 
+##### Social
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-m-6114a9126/)
 
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+##### Tech-Stacks
 
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![](https://img.shields.io/badge/Language-Rust-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![](https://img.shields.io/badge/Framework-DotNet-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
