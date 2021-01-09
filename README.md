@@ -2,6 +2,10 @@
 ### Welcome to my GITHUB!
 
 <p><em>Software Enginner at OMNY Health</em></p>
+<p>your welcome to browse and fork any repos I have or email me any questions</p>
+<p><em>nmnick18@gmail.com</em></p>
+
+
 
 ##### Social
 
@@ -21,7 +25,7 @@
 
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![](https://img.shields.io/badge/Framework-DotNet-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 
 
