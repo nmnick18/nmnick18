@@ -18,7 +18,15 @@
 
 ### A little more about me... 
 
-I am a Back-end Developer Primarily in Java and C#. I have been using other languages to create different microservices such as Rust, Go, and Python.
+I am a Back-end Developer primarily in Java and C#. I have been using other languages to create different microservices such as Rust, Go, and Python.
+
+I am currently a 4th year Computer Engineering major that likes to work in the field of healthcare in fintech. I am part of the Georgia Fintech Academy and I have experience working in the healthcare field.
+
+#### Hobbies
+
+Before COVID, I was greatly into embedded devices, I typically would play around with an Arduino UNO to see what cool things I can make out of it.
+
+Recently, I have been learning more about drone dutomation using ROS and gazebo, and no I am not running a test lab in my gazebo at home. Gazebo is a simulation tool to run the flight automation. I feel like this field will take off in the future, but currently I just find this fasinating and fun to learn.
 
 
 ---
