@@ -1,7 +1,7 @@
 ## Hi there, I am Nikhil Malani 👋 🤖
 ### Welcome to my GITHUB!
 
-<p><em>Software Engineer at OMNY Health</em></p>
+<p><em>Software Engineer at FIS Global</em></p>
 <p>your welcome to browse and fork any repos I have or email me any questions</p>
 <p><em>nmnick18@gmail.com</em></p>
 
