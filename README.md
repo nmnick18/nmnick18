@@ -5,6 +5,8 @@
 <p>your welcome to browse and fork any repos I have or email me any questions</p>
 <p><em>nmnick18@gmail.com</em></p>
 
+Always looking to make new connections and meet fellow developers like myself. Please feel to reach out by my email or linkedin
+
 
 
 ##### Social
@@ -20,13 +22,17 @@
 
 I am a Back-end Developer primarily in Java and C#. I have been using other languages to create different microservices such as Rust, Go, and Python.
 
-I am currently a 4th year Computer Engineering major that likes to work in the field of healthcare in fintech. I am part of the Georgia Fintech Academy and I have experience working in the healthcare field.
+Work towards becoming a DevOps Engineer, I still have a long road ahead of me, but I will get their eventually.
+
+Graduated from Georgia Tech with a bachelor degree in Computer Engineering
+
+Space of interest: Finance, Healthcare, Supply-Chain, Telecommunication, Cloud Computing
 
 #### Hobbies
 
 Before COVID, I was greatly into embedded devices, I typically would play around with an Arduino UNO to see what cool things I can make out of it.
 
-Recently, I have been learning more about drone dutomation using ROS and gazebo, and no I am not running a test lab in my gazebo at home. Gazebo is a simulation tool to run the flight automation. I feel like this field will take off in the future, but currently I just find this fasinating and fun to learn.
+Currently I am just using my extra time to work on skillset and also to change my physique. I go to the gym every morning and later in the afternoon(I end up skipping if I am mentally drained), sometimes if I am just bored at 3AM I'll even hit the gym.
 
 
 ---
