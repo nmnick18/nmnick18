@@ -1,7 +1,7 @@
 ## Hi there, I am Nikhil Malani 👋 🤖
 ### Welcome to my GITHUB!
 
-<p><em>Software Engineer at FIS Global</em></p>
+<p><em>Software Engineer at OncoHealth</em></p>
 <p>your welcome to browse and fork any repos I have or email me any questions</p>
 <p><em>nmnick18@gmail.com</em></p>
 
@@ -20,13 +20,13 @@ Always looking to make new connections and meet fellow developers like myself. P
 
 ### A little more about me... 
 
-I am a Back-end Developer primarily in Java and C#. I have been using other languages to create different microservices such as Rust, Go, and Python.
+I am currently working as a Full-Stack Developer in the space of healthcare with .NET, Angular, and a good amount of MSSQL. I am happy to serve at any capacity and work with folks in the healthcare industry with my ample amount of knowledge that I have learned over the course of 2 years. Also, I am a Back-end Developer primarily in Java and C#. I have been using other languages to create different microservices such as JavaScript, Go, and Python.
 
-Work towards becoming a DevOps Engineer, I still have a long road ahead of me, but I will get their eventually.
+Working towards becoming a DevOps Engineer, I still have a long road ahead of me, but I will get their eventually.
 
 Graduated from Georgia Tech with a bachelor degree in Computer Engineering
 
-Space of interest: Finance, Healthcare, Supply-Chain, Telecommunication, Cloud Computing
+Space of interest: Finance, Healthcare, Education, and Wellness
 
 #### Hobbies
 
