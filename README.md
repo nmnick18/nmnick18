@@ -4,7 +4,7 @@
 <p><em>Platform Engineer at OMNY Health</em></p>
 <p>your welcome to browse and fork any repos I have or email me any questions</p>
 <p><em>nmnick18@gmail.com</em></p>
-(My WebPage)[https://nikhil-malani.vercel.app/]
+# [My Portfolio](https://nikhil-malani.vercel.app/)
 
 Always looking to make new connections and meet fellow developers like myself. Please feel to reach out by my email or linkedin
 
@@ -31,9 +31,7 @@ Space of interest: Finance, Healthcare, Education, and Wellness
 
 #### Hobbies
 
-Before COVID, I was greatly into embedded devices, I typically would play around with an Arduino UNO to see what cool things I can make out of it.
-
-Currently I am just using my extra time to work on skillset and also to change my physique. I go to the gym every morning and later in the afternoon(I end up skipping if I am mentally drained), sometimes if I am just bored at 3AM I'll even hit the gym.
+Currently I am just using my extra time to work on my skillsets on the front-end and cloud and also to change my physique. I go to the gym every morning and later in the afternoon(I end up skipping if I am mentally drained), sometimes if I am just bored at 3AM I'll even hit the gym.
 
 
 ---
