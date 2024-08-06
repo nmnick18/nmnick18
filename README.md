@@ -4,7 +4,8 @@
 <p><em>Platform Engineer at OMNY Health</em></p>
 <p>your welcome to browse and fork any repos I have or email me any questions</p>
 <p><em>nmnick18@gmail.com</em></p>
-# [My Portfolio](https://nikhil-malani.vercel.app/)
+
+[My Portfolio](https://nikhil-malani.vercel.app/) Still working on it!
 
 Always looking to make new connections and meet fellow developers like myself. Please feel to reach out by my email or linkedin
 
